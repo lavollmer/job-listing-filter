@@ -65,7 +65,7 @@ I will continue to learn more about TailwindCSS, ReactJS and updating my process
 
 ### Useful resources
 
-- [Public Sans Google Font](https://fonts.google.com/specimen/Public+Sans) - Design called for this font in the project.
+- [League Spartan Google Fonts](https://fonts.google.com/specimen/League+Spartan) - Design called for this font in the project.
 
 ## Author
 
